@@ -107,7 +107,13 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/Sky_HD_Movies'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
+    FILE_CAPTION = """<a href='https://t.me/Sky_HD_Movies'><b>ɴᴀᴍᴇ : {file_name}</b></a>
+    
+    <b>•───────• ◆ •───────•
+🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ  : <a href='http://telegram.me/+HngULuILtfVhYjY1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Foxy_Flix'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+•───────• ◆ •───────•
+⚙ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/Sky_HD_Movies'>sᴋʏ ʜᴅ ᴍᴏᴠɪᴇs </a></b>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
@@ -204,7 +210,7 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
     VERIFY_COMPLETE_TEXT = """<b>👋 ʜᴇʏ {},
 
-ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ 1st ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ✓
+ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ✓
 
 ɴᴏᴡ ʏᴏᴜ ʜᴀᴠᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ɴᴇxᴛ <code>{}</code></b>"""
 
