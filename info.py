@@ -21,7 +21,7 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 USERNAME = environ.get('USERNAME', "https://telegram.me/SpySpidey")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002167333293'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://telegram.me/+HngULuILtfVhYjY1')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001876787699').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001876787699 -1002009528150').split()]
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://SATHEESHVIN2244:SATHEESHVIN2244@cluster0.aba4w1w.mongodb.net/?retryWrites=true&w=majority")
 
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
@@ -31,7 +31,7 @@ QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/537644270ff4458ab7555.j
 START_IMG = environ.get('START_IMG', 'https://graph.org/file/43e0adadfddcbe2050397.jpg')
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1001843142830'))
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1001843142830'))
-URL = environ.get('URL', 'mytestbot-jvdfhbj.com')
+URL = environ.get('URL', 'mild-kimberly-vinarasan44-511ee6a1.koyeb.app')
 STICKERS_IDS = ('CAACAgQAAxkBAAEK99dlfC7LDqnuwtGRkIoacot_dGC4zQACbg8AAuHqsVDaMQeY6CcRojME').split()
 FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '600'))
 IS_VERIFY = is_enabled('IS_VERIFY', True)
