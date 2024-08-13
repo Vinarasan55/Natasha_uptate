@@ -247,7 +247,7 @@ async def start(client:Client, message):
         
     if data.startswith('pm_mode_'):
         pm_mode = True
-        data = data.replace('pm_mode_', '')
+        data = data.replace('pm_mode_', 'True')
     try:
         pre, grp_id, file_id = data.split('_', 2)
     except:
