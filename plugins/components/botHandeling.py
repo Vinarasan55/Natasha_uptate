@@ -88,9 +88,9 @@ def checkIfLinkIsValid(link):
 @Client.on_message(filters.command("m_grp") & filters.user(ADMINS))
 async def m_grp(client, message):
     links = []
-    link = await client.ask(message.chat.id ,"send me your pm search grp link or send /skiplink to skip , default is Foxy_Flix")
+    link = await client.ask(message.chat.id ,"send me your pm search grp link or send /skiplink to skip , default is Sky Movie Request")
     if link.text == "/skiplink":
-        links.append("https://t.me/Foxy_Flix")
+        links.append("http://telegram.me/+HngULuILtfVhYjY1")
     else:
         if checkIfLinkIsValid(link.text):
             links.append(link.text)
